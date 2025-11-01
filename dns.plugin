@@ -133,6 +133,7 @@ upos-bstar1-mirrorakam.akamaized.net = server:https://dns.alidns.com/dns-query
 *.upos-hz-mirrorakam.akamaized.net = server:https://dns.alidns.com/dns-query
 *.uposdash-302-bilivideo.yfcdn.net = server:https://dns.alidns.com/dns-query
 *.yo9.com = server:https://dns.alidns.com/dns-query
+bsbsb.top = server:https://dns.alidns.com/dns-query
 
 ##国内媒体
 # DOMAIN Rules
@@ -597,6 +598,12 @@ caiyunapp.com = server:https://doh.pub/dns-query
 
 ##金山
 *.ksyuncdn.com = server:https://dns.alidns.com/dns-query
+
+##yy
+*.yy.com = server:180.76.76.76
+yy.com = server:180.76.76.76
+*.yystatic.com = server:180.76.76.76
+*.bigda.com = server:180.76.76.76
 
 ## 全局
 *.cn = server:https://doh.pub/dns-query
