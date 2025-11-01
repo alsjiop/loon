@@ -595,5 +595,8 @@ ntservicepack.microsoft.com = server:https://dns.alidns.com/dns-query
 caiyunapp.com = server:https://doh.pub/dns-query
 *.caiyuncdn.com = server:https://doh.pub/dns-query
 
+##金山
+*.ksyuncdn.com = server:https://dns.alidns.com/dns-query
+
 ## 全局
 *.cn = server:https://doh.pub/dns-query
