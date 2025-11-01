@@ -594,5 +594,6 @@ ntservicepack.microsoft.com = server:https://dns.alidns.com/dns-query
 ##彩云天气
 caiyunapp.com = server:https://doh.pub/dns-query
 *.caiyuncdn.com = server:https://doh.pub/dns-query
+
 ## 全局
 *.cn = server:https://doh.pub/dns-query
