@@ -6,14 +6,17 @@
 [Host]
 ##7li7li
 *.7li7li.vip = server:https://dns.alidns.com/dns-query
+
 ##LinuxDo
 *.idcflare.com = server:https://dns.alidns.com/dns-query
 *.linux.do = server:https://dns.alidns.com/dns-query
+
 ## 米忽悠
 *.bh3.com = server:https://doh.pub/dns-query
 *.mihoyo.com = server:https://doh.pub/dns-query
 *.yuanshen.com = server:https://doh.pub/dns-query
 *-os.yuanshen.com = server:https://doh.pub/dns-query
+
 ## bilibili
 0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com = server:https://dns.alidns.com/dns-query
 0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com = server:https://dns.alidns.com/dns-query
@@ -130,6 +133,7 @@ upos-bstar1-mirrorakam.akamaized.net = server:https://dns.alidns.com/dns-query
 *.upos-hz-mirrorakam.akamaized.net = server:https://dns.alidns.com/dns-query
 *.uposdash-302-bilivideo.yfcdn.net = server:https://dns.alidns.com/dns-query
 *.yo9.com = server:https://dns.alidns.com/dns-query
+
 ##国内媒体
 # DOMAIN Rules
 00713915daab0be43def5c338c02c80b.dlied1.cdntips.net = server:https://dns.alidns.com/dns-query
@@ -353,6 +357,7 @@ yoo.gtimg.com = server:https://dns.alidns.com/dns-query
 *.edgesrv.com = server:https://dns.alidns.com/dns-query
 *.guguyuyin.com = server:https://dns.alidns.com/dns-query
 *.oywtv.com = server:https://dns.alidns.com/dns-query
+
 ## sina
 *.weibo.com = server:https://doh.pub/dns-query
 *.miaopai.com = server:https://doh.pub/dns-query
@@ -362,37 +367,47 @@ yoo.gtimg.com = server:https://dns.alidns.com/dns-query
 *.sinaimg.com = server:https://doh.pub/dns-query
 *.sina.com.cn = server:https://doh.pub/dns-query
 *.sinajs.cn = server:https://doh.pub/dns-query
+
 ## zhihu
 *.zhihu.com = server:https://doh.pub/dns-query
 *.zhimg.com = server:https://doh.pub/dns-query
+
 ## sspai
 *.sspai.com = server:https://doh.pub/dns-query
+
 ## 喜马拉雅
 *.xmcdn.com = server:https://doh.pub/dns-query
 *.ximalaya.com = server:https://doh.pub/dns-query
+
 ## xiaomi
 *.xiaomi.com = server:https://doh.pub/dns-query
 *.mi.com = server:https://doh.pub/dns-query
 *.miwifi.com = server:https://doh.pub/dns-query
+
 ## douban
 *.douban.com = server:https://doh.pub/dns-query
 *.doubanio.com = server:https://doh.pub/dns-query
 *.douc.cc = server:https://doh.pub/dns-query
+
 ## nga
 *#*.nga.178.com = server:https://doh.pub/dns-query
 *.ngacn.cc = server:https://doh.pub/dns-query
 *.178.com = server:https://doh.pub/dns-query
+
 ## jd
 *.jd.com = server:https://doh.pub/dns-query
 *.jdcloud.com = server:https://doh.pub/dns-query
 *.jd.hk = server:https://doh.pub/dns-query
 *.360buyimg.com = server:https://doh.pub/dns-query
+*.jdpay.com = server:https://doh.pub/dns-query
+
 ## 爱奇艺
 *.iqiyi.com = server:https://doh.pub/dns-query
 *.qiyi.com = server:https://doh.pub/dns-query
 *.iqiyipic.com = server:https://doh.pub/dns-query
 *.qiyipic.com = server:https://doh.pub/dns-query
 *.ppsimg.com = server:https://doh.pub/dns-query
+
 ## 其他
 *.163.com = server:https://doh.pub/dns-query
 *.126.com = server:https://doh.pub/dns-query
@@ -408,6 +423,7 @@ yoo.gtimg.com = server:https://dns.alidns.com/dns-query
 *.gov.cn = server:https://doh.pub/dns-query
 *.sohu.com = server:https://doh.pub/dns-query
 *.csdn.com = server:https://doh.pub/dns-query
+
 ##Apple
 api.smoot.apple.cn = server:https://dns.alidns.com/dns-query
 api.smoot.apple.com = server:https://dns.alidns.com/dns-query
@@ -468,6 +484,7 @@ updates.cdn-apple.com = server:https://dns.alidns.com/dns-query
 *.ls-apple.com.akadns.net = server:https://dns.alidns.com/dns-query
 *.mzstatic.com = server:https://dns.alidns.com/dns-query
 *.origin-apple.com.akadns.net = server:https://dns.alidns.com/dns-query
+
 ##全球直连
 *.flyert.com = server:https://dns.alidns.com/dns-query
 *.gandi.net = server:https://dns.alidns.com/dns-query
@@ -490,5 +507,92 @@ smtp.office365.com = server:https://dns.alidns.com/dns-query
 download.microsoft.com = server:https://dns.alidns.com/dns-query
 wustat.windows.com = server:https://dns.alidns.com/dns-query
 ntservicepack.microsoft.com = server:https://dns.alidns.com/dns-query
+
+##高德
+*.amap.com = server:https://dns.alidns.com/dns-query
+*.autonavi.com = server:https://dns.alidns.com/dns-query
+
+##美团
+*.meituan.com = server:https://dns.alidns.com/dns-query
+
+##菜鸟
+*.cainiao.com = server:https://dns.alidns.com/dns-query
+
+##pdd
+*.pinduoduo.com = server:https://dns.alidns.com/dns-query
+*.pinduoduo.net = server:https://dns.alidns.com/dns-query
+*.pddpic.com = server:https://dns.alidns.com/dns-query
+*.yangkeduo.com = server:https://dns.alidns.com/dns-query
+
+#taobao
+*.alibaba.com = server:https://dns.alidns.com/dns-query
+*alibabachengdun.com = server:https://dns.alidns.com/dns-query
+
+# > Bytedance
+*.bytegecko.com = server:180.184.1.1
+*.bytecdn.com = server:180.184.1.1
+*.idouyinvod.com = server:180.184.1.1
+*.ndcpp.com = server:180.184.1.1
+*.ecombding.com = server:180.184.1.1
+*.ecombdapi.com = server:180.184.1.1
+*.open-douyin.com = server:180.184.1.1
+*.bytemaimg.com = server:180.184.1.1
+#汽水音乐
+*.qishui.com = server:180.184.1.1
+#番茄小说
+*.fqnovelpic.com = server:180.184.1.1
+*.fqnovel.com = server:180.184.1.1
+*.fqnovelstatic.com = server:180.184.1.1
+*.vegslb.com = server:180.184.1.1
+*.sealaly.net = server:180.184.1.1
+
+## 小红书
+*.xhscdn.com = server:223.5.5.5
+*.xiaohongshu.com = server:223.5.5.5
+
+##饿了么
+*ele.me = server:https://dns.alidns.com/dns-query
+
+##中国移动
+*.chinamobile.com = server:211.136.192.6
+*.mobsurl.com = server:211.136.192.6
+*.mmarket.com = server:211.136.192.6
+*.cmpassport.com = server:211.136.192.6
+*.cmicapm.com = server:211.136.192.6
+*.hiaiabc.com = server:211.136.192.6
+*.komect.com = server:211.136.192.6
+*.cmpay.com = server:211.136.192.6
+*.139.com = server:211.136.192.6
+
+##超星
+*.chaoxing.com = server:https://dns.alidns.com/dns-query
+*.agora.io = server:https://dns.alidns.com/dns-query
+*.easemob.com = server:https://dns.alidns.com/dns-query
+*.aichaoxing.com = server:https://dns.alidns.com/dns-query
+*.cldisk.com = server:https://dns.alidns.com/dns-query
+*tingyun.com = server:https://dns.alidns.com/dns-query
+*.code-abc.com = server:https://dns.alidns.com/dns-query
+
+##企业微信
+*.rtxapp.com = server:https://doh.pub/dns-query
+
+##国际喜马拉雅
+*.himalaya.com = server:https://doh.pub/dns-query
+
+##夸克
+*.shuqireader.com = server:https://doh.pub/dns-query
+*.yisou.com = server:https://doh.pub/dns-query
+*.ucweb.com = server:https://doh.pub/dns-query
+
+##百度网盘
+*.nuomi.com = server:180.76.76.76
+
+##123网盘
+*.123pan.com = server:https://dns.alidns.com/dns-query
+*.123795.com = server:https://dns.alidns.com/dns-query
+
+##彩云天气
+caiyunapp.com = server:https://doh.pub/dns-query
+*.caiyuncdn.com = server:https://doh.pub/dns-query
 ## 全局
 *.cn = server:https://doh.pub/dns-query
