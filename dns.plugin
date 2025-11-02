@@ -515,6 +515,13 @@ ntservicepack.microsoft.com = server:https://dns.alidns.com/dns-query
 
 ##美团
 *.meituan.com = server:https://dns.alidns.com/dns-query
+*.meituan.net = server:https://dns.alidns.com/dns-query
+*.sankuai.com = server:https://dns.alidns.com/dns-query
+*.tec73.com = server:https://dns.alidns.com/dns-query
+*.dianping.com = server:https://dns.alidns.com/dns-query
+
+##快手
+*.kuaishouzt.com = server:https://dns.alidns.com/dns-query
 
 ##菜鸟
 *.cainiao.com = server:https://dns.alidns.com/dns-query
