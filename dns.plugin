@@ -9,7 +9,7 @@
 
 ##LinuxDo
 *.idcflare.com = server:https://dns.alidns.com/dns-query
-*.linux.do = server:https://dns.alidns.com/dns-query
+*.linux.do = server:https://cloudflare-dns.com/dns-query
 
 ## 米忽悠
 *.bh3.com = server:https://doh.pub/dns-query
@@ -519,9 +519,11 @@ ntservicepack.microsoft.com = server:https://dns.alidns.com/dns-query
 *.sankuai.com = server:https://dns.alidns.com/dns-query
 *.tec73.com = server:https://dns.alidns.com/dns-query
 *.dianping.com = server:https://dns.alidns.com/dns-query
+*.dpfile.com = server:https://dns.alidns.com/dns-query
 
 ##快手
 *.kuaishouzt.com = server:https://dns.alidns.com/dns-query
+*.ks-live.com = server:https://dns.alidns.com/dns-query
 
 ##菜鸟
 *.cainiao.com = server:https://dns.alidns.com/dns-query
@@ -534,7 +536,8 @@ ntservicepack.microsoft.com = server:https://dns.alidns.com/dns-query
 
 #taobao
 *.alibaba.com = server:https://dns.alidns.com/dns-query
-*alibabachengdun.com = server:https://dns.alidns.com/dns-query
+*.alibabachengdun.com = server:https://dns.alidns.com/dns-query
+*.alibabadns.com = server:https://dns.alidns.com/dns-query
 
 # > Bytedance
 *.bytegecko.com = server:180.184.1.1
@@ -545,6 +548,7 @@ ntservicepack.microsoft.com = server:https://dns.alidns.com/dns-query
 *.ecombdapi.com = server:180.184.1.1
 *.open-douyin.com = server:180.184.1.1
 *.bytemaimg.com = server:180.184.1.1
+*.edge-byted.com = server:180.184.1.1
 #汽水音乐
 *.qishui.com = server:180.184.1.1
 #番茄小说
@@ -594,6 +598,7 @@ ntservicepack.microsoft.com = server:https://dns.alidns.com/dns-query
 
 ##百度网盘
 *.nuomi.com = server:180.76.76.76
+*.antpcdn.com = server:180.76.76.76
 
 ##123网盘
 *.123pan.com = server:https://dns.alidns.com/dns-query
@@ -611,6 +616,19 @@ caiyunapp.com = server:https://doh.pub/dns-query
 yy.com = server:180.76.76.76
 *.yystatic.com = server:180.76.76.76
 *.bigda.com = server:180.76.76.76
+
+##阿里
+*.anticheatexpert.com = server:https://dns.alidns.com/dns-query
+
+##腾讯
+*.gcloudsdk.com  = server:https://doh.pub/dns-query
+*.gcloudcs.com  = server:https://doh.pub/dns-query
+*.tencent-cloud.com = server:https://doh.pub/dns-query
+
+##杂
+*.qingtian618.com = server:https://dns.alidns.com/dns-query
+*.qread.xyz = server:https://dns.alidns.com/dns-query
+
 
 ## 全局
 *.cn = server:https://doh.pub/dns-query
