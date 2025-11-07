@@ -10,6 +10,8 @@
 ##LinuxDo
 *.idcflare.com = server:https://dns.alidns.com/dns-query
 *.linux.do = server:https://cloudflare-dns.com/dns-query
+idcflare.com = server:https://dns.alidns.com/dns-query
+linux.do = server:https://cloudflare-dns.com/dns-query
 
 ## 米忽悠
 *.bh3.com = server:https://doh.pub/dns-query
