@@ -8,10 +8,8 @@
 *.7li7li.vip = server:https://dns.alidns.com/dns-query
 
 ##LinuxDo
-*.idcflare.com = server:https://neo.ddd.oaifree.com/dns-query
-*.linux.do = server:https://neo.ddd.oaifree.com/dns-query
-idcflare.com = server:https://neo.ddd.oaifree.com/dns-query
-linux.do = server:https://neo.ddd.oaifree.com/dns-query
+*.idcflare.com = server:https://dns.alidns.com/dns-query
+*.linux.do = server:https://dns.alidns.com/dns-query
 
 ## 米忽悠
 *.bh3.com = server:https://doh.pub/dns-query
